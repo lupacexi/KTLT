@@ -10,5 +10,7 @@ int main(){
 	printf("Hello World\n");
 	cin>>x;
 	cout<<"x="<<x<<endl;
+
+	printf("hahaha");
 	return 0;
 }
