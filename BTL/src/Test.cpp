@@ -10,6 +10,6 @@ int main(){
 	printf("Hello World\n");
 	cin>>x;
 	cout<<"x="<<x<<endl;
-	ádhjklsx
+	jkzxcvb
 	return 0;
 }
