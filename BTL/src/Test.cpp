@@ -7,9 +7,10 @@ using namespace std;
 
 int main(){
 	int x;
-	printf("Hello World\n");
-	cin>>x;
+	printf("Hello World/n");
 	cout<<"x="<<x<<endl;
-	jkzxcvb
+	x=x+4;
+
+
 	return 0;
 }
